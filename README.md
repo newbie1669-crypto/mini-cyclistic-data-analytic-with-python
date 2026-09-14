@@ -1,4 +1,4 @@
-# **Cyclistic Bike Share - Google Data Analytics Capstone Project**
+# [mini project] **Cyclistic Bike Share - Google Data Analytics Capstone**
 
 This project is the capstone for the [**`Google Data Analytics Professional Certificate`**](https://www.coursera.org/professional-certificates/google-data-analytics), which I completed a while back, starting in 2024. I lost my original project files, so I redid it as this one.
 
